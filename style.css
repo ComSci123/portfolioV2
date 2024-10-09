@@ -1,0 +1,98 @@
+body{
+    background-color: #626F47;
+}
+.container{
+    color: #FEFAE0;
+    text-align: center;
+}
+#download-link{
+    display: inline-block;  /* Ensure it's treated like a block element */
+    text-align: center;     /* Center text inside the block */
+    margin: 0 auto;         /* Center the block horizontally */
+    padding: 10px 10px;     /* Add some padding for better appearance */
+    background-color: #FEFAE0; /* Background color */
+    color: #798645;           /* Text color */
+    text-decoration: none;  /* Remove underline */
+    border-radius: 5px;     /* Rounded corners */
+    font-size: 13px;        /* Font size */
+}
+.menu{
+    text-align: center;
+    border: 1px solid beige;
+    border-radius: 15px;
+    margin: 10px 350px;
+    font-size: 20pt;
+    margin-bottom: 60px; 
+    padding-bottom: 8px;
+    
+}
+#home{
+    text-align: center;     /* Center text inside the block */
+    margin: 20px;         /* Center the block horizontally */
+    padding: 10px 15px;     /* Add some padding for better appearance */
+    color: #FEFAE0;           /* Text color */
+    text-decoration:none;  /* Remove underline */
+    border-radius: 5px;     /* Rounded corners */
+    font-size: 13px;        /* Font size */
+
+}
+#home:hover{
+    background-color:#FEFAE0;
+    color: #798645;
+}
+#skills{
+    text-align: center;     /* Center text inside the block */
+    margin: 20px;         /* Center the block horizontally */
+    padding: 10px 15px;     /* Add some padding for better appearance */
+    color: #FEFAE0;           /* Text color */
+    text-decoration: none;  /* Remove underline */
+    border-radius: 5px;     /* Rounded corners */
+    font-size: 13px;        /* Font size */
+}
+#skills:hover{
+    background-color:#FEFAE0;
+    color: #798645;
+}
+#project{
+    text-align: center;     /* Center text inside the block */
+    margin: 20px;         /* Center the block horizontally */
+    padding: 10px 15px;     /* Add some padding for better appearance */
+    color: #FEFAE0;             /* Text color */
+    text-decoration: none;  /* Remove underline */
+    border-radius: 5px;     /* Rounded corners */
+    font-size: 13px;        /* Font size */
+}
+#project:hover{
+    background-color:#FEFAE0;
+    color: #798645;
+}
+#contact{
+    text-align: center;     /* Center text inside the block */
+    margin: 20px;         /* Center the block horizontally */
+    padding: 10px 15px;     /* Add some padding for better appearance */
+    color: #FEFAE0;             /* Text color */
+    text-decoration: none;  /* Remove underline */
+    border-radius: 5px;     /* Rounded corners */
+    font-size: 13px;        /* Font size */
+}
+#contact:hover{
+    background-color:#FEFAE0;
+    color: #798645;
+}
+#pic{
+    text-align: center;     /* Center text inside the block */
+    margin: 20px;         /* Center the block horizontally */
+    padding: 5px 5px;     /* Add some padding for better appearance */
+    background-color: #798645; /* Background color */
+    color: #626F47;           /* Text color */
+    text-decoration: none;  /* Remove underline */
+    border-radius: 15px;     /* Rounded corners */
+    font-size: 13px;        /* Font size */
+}
+ footer{
+    text-align: center;
+    color: #FEFAE0;
+ }
+
+
+
